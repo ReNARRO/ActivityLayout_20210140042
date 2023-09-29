@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mempelajaribahasakotlin</string>
+    <string name="Judul">Hello Sayang</string>
+    <string name="profil"> Keju</string>
+    <string name="Jenis">Mozzarella</string>
+    <string name="btnscan"> Scan barcode</string>
+</resources>
