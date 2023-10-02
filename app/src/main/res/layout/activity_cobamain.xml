@@ -44,5 +44,33 @@
 
         android:text="Button" />
 
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center|left"
+        android:layout_marginLeft="20dp"
+        android:background="#ffffff"
+        app:srcCompat="@drawable/icon_left" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/icon_right"
+        android:layout_gravity="center|right"
+        android:layout_marginRight="20dp"
+        android:background="#ffffff"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center"
+        android:text="FOR SALE"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"/>
+
 
 </FrameLayout>
