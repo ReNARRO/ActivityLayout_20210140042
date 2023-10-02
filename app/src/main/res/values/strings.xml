@@ -4,4 +4,9 @@
     <string name="profil"> Keju</string>
     <string name="Jenis">Mozzarella</string>
     <string name="btnscan"> Scan barcode</string>
+    <string name="btn1">Jelajahi</string>
+    <string name="btn2">Pabrik</string>
+    <string name="btnmatch">Spesifikasi</string>
+    <string name="btnright">Apa?</string>
+    <string name="btnleft">Why?</string>
 </resources>
