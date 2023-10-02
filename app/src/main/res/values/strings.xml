@@ -10,4 +10,12 @@
     <string name="btnright">Apa?</string>
     <string name="btnleft">Why?</string>
     <string name="mobil">Mustang GT</string>
+    <string name="nama">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="name">Enter Your Name</string>
+    <string name="nohp">Enter Your Phone Number</string>
+    <string name="alamat">Enter Your Address</string>
+
 </resources>
